@@ -1,0 +1,49 @@
+.container {
+    width: 1350px;
+    height: 600px;
+    background-color: rgb(98, 208, 223);
+    margin: 0 auto;
+}
+
+.text {
+    Width: 223px;
+    Height: 51px;
+    position: relative;
+    Top: 210px;
+    Left: 179px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: -0.6%;
+    color: rgb(255, 255, 255);
+}
+
+.text_2 {
+    color: rgb(255, 255, 255);
+    position: relative;
+    width: 555px;
+    height: 235px;
+    top: 220px;
+    left: 179px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0%;
+    padding-top: 10px;
+}
+
+.text_3 {
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.girl_photo {
+    Width: 525px;
+    Height: 600px;
+    position: relative;
+    Top: -286px;
+    Left: 826px;
+
+}

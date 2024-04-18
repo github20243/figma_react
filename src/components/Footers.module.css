@@ -1,0 +1,41 @@
+.container {
+    width: 1350px;
+    height: 700px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    border: 2px solid khaki;
+    
+    
+}
+
+.line {
+    width: 230px;
+    height: 2px;
+    background-color: white ;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+}
+
+.text {
+    width: 230px;
+    height: 54px;
+    position: relative;
+    top: 70px;     
+    left: 25%;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: -0.6%;
+    color: white;
+}
+
+.dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #e9b730;
+    position: relative;
+    top: 22px;     
+    left: 15%;
+}

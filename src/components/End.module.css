@@ -1,0 +1,105 @@
+.container {
+    width: 1350px;
+    height: 400px;
+    margin: 0 auto;
+    background: whitesmoke;
+}
+
+.photo {
+    width: 400px;
+    height: 400px;
+}
+
+.text {
+    position: relative;
+    width: 240px;
+    height: 48px;
+    left: 480px;
+    bottom: 310px;
+    color: rgb(34, 53, 111);
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: -0.6%;
+    text-align: left;
+}
+
+.text_2 {
+    position: relative;
+    width: 207px;
+    height: 115px;
+    left: 480px;
+    bottom: 300px;
+    color: rgba(34, 53, 111, 0.5);
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.6%;
+    text-align: left;   
+}
+
+.text_3 {
+    /* ENFOLD HEALTH */
+    position: relative;
+    width: 240px;
+    height: 48px;
+    left: 800px;
+    bottom: 473px;
+    color: rgb(34, 53, 111);
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: -0.6%;
+    text-align: left;
+}
+
+.text_4 {
+    position: relative;
+    width: 240px;
+    height: 115px;
+    left: 800px;
+    bottom: 463px;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.6%;
+    text-align: left;
+}
+
+.text_5 {
+    color: #4293ff;
+}
+
+.text_6 {
+    position: relative;
+    width: 240px;
+    height: 48px;
+    left: 1080px;
+    bottom: 636px;
+    color: rgb(34, 53, 111);
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: -0.6%;
+    text-align: left;
+}
+
+.text_7 {
+    position: relative;
+    width: 240px;
+    height: 115px;
+    left: 1080px;
+    bottom: 625px;
+    color: rgba(34, 53, 111, 0.5);
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 1%;
+    text-align: left;
+}

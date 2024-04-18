@@ -1,0 +1,38 @@
+.block_1 {
+    width: 440px;
+    height: 360px;
+    background-color: rgb(34, 53, 111);
+}
+
+.block_2 {
+    width: 440px;
+    height: 337px;
+    background-color: rgb(98, 208, 223);
+}
+
+.block_3 {
+    width: 460px;
+    height: 338px;
+    background-color: rgb(222, 225, 255);
+    position: relative;
+    left: 440px;
+    bottom: 338px;
+}
+
+.block_4 {
+    width: 446px;
+    height: 340px;
+    background-color: rgb(143, 0, 255);
+    position: relative;
+    left: 900px;
+    bottom: 676px;
+}
+
+.block_5 {
+    width: 446px;
+    height: 360px;
+    background: url("./src/assets/img/joanna-kosinska-340748.svg");
+    position: relative;
+    left: 900px;
+    bottom: 1375px;
+}

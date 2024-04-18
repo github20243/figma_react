@@ -1,0 +1,151 @@
+.container {
+    width: 1350px;
+    height: 700px;
+    background-color: white;
+    margin: 0 auto;
+    border: 2px solid greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.hr_div_1 {
+    width: 180px;
+    height: 1.5px;
+    background-color: white;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+}
+
+.hr_div_2 {
+    width: 180px;
+    height: 1.5px;
+    background-color: white;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+}
+
+.hr_div_3 {
+    width: 180px;
+    height: 1.5px;
+    background-color: white;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+}
+
+.hr_div_4 {
+    width: 180px;
+    height: 1.5px;
+    background-color: white;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+}
+
+.dot_1 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #e9b730;
+    position: relative;
+    top: 85px;     
+    left: 15%;
+}
+
+.dot_2 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #e9b730;
+    position: relative;
+    top: 85px;     
+    left: 15%;
+}
+
+.dot_3 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #e9b730;
+    position: relative;
+    top: 85px;     
+    left: 15%;
+}
+
+.dot_4 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #e9b730;
+    position: relative;
+    top: 85px;     
+    left: 15%;
+}
+
+
+.tex_1 {
+    width: 230px;
+    height: 54px;
+    position: relative;
+    top: 70px;     
+    left: 25%;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: -0.6%;
+    color: white;
+    }
+
+.tex_2 {
+    width: 230px;
+    height: 54px;
+    position: relative;
+    top: 70px;     
+    left: 25%;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: -0.6%;
+    color: white;
+    }
+.tex_3 {
+    width: 230px;
+    height: 54px;
+    position: relative;
+    top: 70px;     
+    left: 25%;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: -0.6%;
+    color: white;
+    }
+.tex_4 {
+    width: 230px;
+    height: 54px;
+    position: relative;
+    top: 70px;     
+    left: 25%;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: -0.6%;
+    color: white;
+    }
+
+    .texts {
+    width: 200px;
+    height: 150px;
+    position: relative;
+    top: 300px;
+    left: -900px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    letter-spacing: -3.5%;
+    color: rgb(34, 53, 111);
+    }

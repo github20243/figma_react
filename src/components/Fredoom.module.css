@@ -1,0 +1,35 @@
+.container{
+   height: 100px;
+   margin: 0 auto;
+   background-color: #f4f9e2;
+}
+
+.text {
+   color: #62D0DF;
+   font-weight: 700;
+   font-size: 24px;
+   letter-spacing: -3.5%;
+   position: relative;
+   left: 184px;
+   width: 150px;
+   top: 38px;
+}
+
+.li {
+   list-style: none;
+   display: flex;
+   justify-content: center;
+   gap: 30px;
+   font-family: sans-serif;
+   font-weight: 100;
+   position: relative;
+   top: 17px;
+}
+
+.hr {
+    position: relative;
+   top: 25px;
+   width: 45px;
+   left: 540px;
+} 
+

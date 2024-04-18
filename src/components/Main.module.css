@@ -1,0 +1,49 @@
+.container {
+    height: 500px;
+    margin: 0 auto;
+    background-color: #f4f9e2;
+}
+
+
+.text_2 {
+    color: #62D0DF;
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: -3.5%;
+    position: relative;
+    left: 184px;
+    width: 150px;
+    top: 100px;
+ }
+ 
+ .text_3 {
+    position: relative;
+    width: 250px;
+    height: 60px;
+    top: 110px;
+    left: 179px;
+    font-weight: 700;
+    font-size: 25px;
+    letter-spacing: -3.5%;
+    
+ }
+ 
+ .text_4 {
+    position: relative;
+    width: 360px;
+    height: 78px;
+    top: 120px;
+    left: 179px;
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: 0%;
+    font-family: sans-serif;
+ }
+ 
+ .icons {
+    width: 500px;
+    height: 500px;
+    margin-left: 850px;
+    position: relative;
+    bottom: 340px;
+ }
